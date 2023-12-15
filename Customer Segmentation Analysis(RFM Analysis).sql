@@ -132,10 +132,3 @@ from [PortfolioDB].[dbo].[sales_data_sample]
 where country = 'USA'
 group by  country, YEAR_ID, PRODUCTLINE
 order by 4 desc
-
-/* Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privac
-*/
